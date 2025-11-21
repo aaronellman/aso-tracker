@@ -1,0 +1,17 @@
+[project]
+name = "aso-tracker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn>=0.25.0",
+    "sqlalchemy>=2.0.23",
+    "psycopg2-binary>=2.9.9",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.7.0",
+    "requests>=2.31.0"
+]
+
+
