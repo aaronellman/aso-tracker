@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+#Other
+Notes.txt
+# Environment variables
+.env
+
+.history/
