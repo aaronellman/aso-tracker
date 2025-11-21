@@ -30,3 +30,7 @@ This project is built with **FastAPI** and **PostgreSQL**, making it easy to ext
 - **Environment variables:** `python-dotenv`  
 
 ---
+
+**Activate venv:**
+1. cd into the dir
+2. `.venv\Scripts\activate`
